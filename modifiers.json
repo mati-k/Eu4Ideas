@@ -1,0 +1,1427 @@
+{
+  "sunk_ship_morale_hit_recieved": {
+    "text": "Morale Hit When Losing a Ship",
+    "multiplier": 100,
+    "percent": true
+  },
+  "national_focus_years": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "no_religion_penalty": {
+    "text": "Heretic and Heathen provinces do not give any penalties.",
+    "multiplier": 1,
+    "percent": false
+  },
+  "native_uprising_chance": {
+    "text": "Native Uprising Chance",
+    "multiplier": 100,
+    "percent": true
+  },
+  "reelection_cost": {
+    "text": "Reelection Cost",
+    "multiplier": 100,
+    "percent": true
+  },
+  "trade_range_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "galley_cost": {
+    "text": "Galley Cost",
+    "multiplier": 100,
+    "percent": true
+  },
+  "sea_repair": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "spy_action_cost_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "coast_raid_range": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "land_maintenance_modifier": {
+    "text": "Land Maintenance Modifier",
+    "multiplier": 100,
+    "percent": true
+  },
+  "possible_policy": {
+    "text": "Possible Policies",
+    "multiplier": 1,
+    "percent": false
+  },
+  "tolerance_heretic": {
+    "text": "Tolerance of Heretics",
+    "multiplier": 1,
+    "percent": false
+  },
+  "stability_cost_to_declare_war": {
+    "text": "Stability Hit to Declare War",
+    "multiplier": 1,
+    "percent": false
+  },
+  "naval_attrition": {
+    "text": "Naval Attrition",
+    "multiplier": 100,
+    "percent": true
+  },
+  "global_own_trade_power": {
+    "text": "Domestic Trade Power",
+    "multiplier": 100,
+    "percent": true
+  },
+  "free_dip_policy": {
+    "text": "Diplomatic Free Policies",
+    "multiplier": 1,
+    "percent": false
+  },
+  "yearly_government_power": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "mercenary_manpower": {
+    "text": "Mercenary Manpower",
+    "multiplier": 100,
+    "percent": true
+  },
+  "merchants": {
+    "text": "Merchants",
+    "multiplier": 1,
+    "percent": false
+  },
+  "liberty_desire_from_subject_development": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "idea_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "tolerance_heathen": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_autonomy": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "idea_claim_colonies": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "max_hostile_attrition": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "free_leader_pool": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "missionaries": {
+    "text": "Missionaries",
+    "multiplier": 1,
+    "percent": false
+  },
+  "navy_tradition_decay": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "trade_company_investment_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_colonial_growth": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "justify_trade_conflict_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "naval_morale_damage_received": {
+    "text": "Naval Morale Damage Received",
+    "multiplier": 100,
+    "percent": true
+  },
+  "monarch_diplomatic_power": {
+    "text": "Monarch Diplomatic Skill",
+    "multiplier": 1,
+    "percent": false
+  },
+  "diplomatic_reputation": {
+    "text": "Diplomatic Reputation",
+    "multiplier": 1,
+    "percent": false
+  },
+  "infantry_shock": {
+    "text": "Infantry Shock",
+    "multiplier": 100,
+    "percent": true
+  },
+  "global_naval_engagement_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "trade_goods_size_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "manpower_recovery_speed": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_garrison_growth": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "yearly_patriarch_authority": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "recover_army_morale_speed": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "caravan_power": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "discovered_relations_impact": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "range": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "harsh_treatment_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "reinforce_cost_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "own_coast_naval_combat_bonus": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "leader_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "all_estate_loyalty_equilibrium": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "all_estate_influence_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "all_estate_possible_privileges": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "cavalry_fire": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "garrison_size": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "core_creation": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "backrow_artillery_damage": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "culture_conversion_time": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_ship_repair": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "army_tradition_from_battle": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "claim_duration": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "merc_leader_army_tradition": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "artillery_power": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "leader_naval_manuever": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "prestige_from_land": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "mil_tech_cost_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "colonist_placement_chance": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "possible_dip_policy": {
+    "text": "Diplomatic Possible Policies",
+    "multiplier": 1,
+    "percent": false
+  },
+  "may_perform_slave_raid_on_same_religion": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "can_fabricate_for_vassals": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "fire_damage": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_ship_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "war_taxes_cost_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "free_adm_policy": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "land_attrition": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "morale_damage": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_monthly_devastation": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_sailors": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "max_revolutionary_zeal": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "naval_morale": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "leader_land_manuever": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "culture_conversion_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "institution_spread_from_true_faith": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "rival_change_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "ae_impact": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "monarch_admin_power": {
+    "text": "Monarch Administrative Skill",
+    "multiplier": 1,
+    "percent": false
+  },
+  "flagship_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "tolerance_own": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "infantry_power": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_tax_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "naval_tradition_from_trade": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "imperial_authority": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "state_governing_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "interest": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "yearly_army_professionalism": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "establish_order_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_spy_defence": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "religious_unity": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "heavy_ship_power": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "expand_administration_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_ship_trade_power": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "shock_damage": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "land_morale": {
+    "text": "Morale of Armies",
+    "multiplier": 100,
+    "percent": true
+  },
+  "transport_power": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "ship_power_propagation": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "reform_progress_growth": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "female_advisor_chance": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "embracement_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "placed_merchant_power": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_naval_barrage_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "raze_power_gain": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_prov_trade_power_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "colonists": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "movement_speed_in_fleet_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "unjustified_demands": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "max_absolutism_effect": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "merc_maintenance_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "artillery_fire": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "prestige_per_development_from_conversion": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "prestige_from_naval": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "monthly_heir_claim_increase": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "free_land_leader_pool": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "light_ship_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "num_accepted_cultures": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "migration_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "shock_damage_received": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "advisor_pool": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "war_exhaustion_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "morale_damage_received": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "development_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "available_province_loot": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "missionary_maintenance_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "inflation_reduction": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "manpower_in_culture_group_provinces": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "siege_ability": {
+    "text": "Siege Ability",
+    "multiplier": 100,
+    "percent": true
+  },
+  "sailor_maintenance_modifer": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "drill_decay_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "horde_unity": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "envoy_travel_time": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "heavy_ship_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "disengagement_chance": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "manpower_in_true_faith_provinces": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "artillery_levels_available_vs_fort": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_regiment_recruit_speed": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "diplomatic_annexation_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "monthly_reform_progress_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "artillery_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "mercantilism_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_institution_spread": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "light_ship_power": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "land_forcelimit_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "infantry_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "possible_condottieri": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "may_perform_slave_raid": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "diplomats": {
+    "text": "Diplomats",
+    "multiplier": 1,
+    "percent": false
+  },
+  "sailors_recovery_speed": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "yearly_absolutism": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_ship_recruit_speed": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "adm_tech_cost_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "leader_naval_fire": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "reinforce_speed": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "free_mil_policy": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "supply_limit_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "monarch_lifespan": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "mil_advisor_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "great_project_upgrade_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "technology_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "build_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_heretic_missionary_strength": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "trade_steering": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "defensiveness": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_trade_goods_size_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_trade_power": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "church_power_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "discipline": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "hostile_attrition": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "prestige_decay": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "administrative_efficiency": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "fire_damage_received": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "ship_durability": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "years_of_nationalism": {
+    "text": "Years of Separatism",
+    "multiplier": 1,
+    "percent": false
+  },
+  "possible_adm_policy": {
+    "text": "Administrative Possible Policies",
+    "multiplier": 1,
+    "percent": false
+  },
+  "vassal_income": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "enforce_religion_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "navy_tradition": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "army_tradition_decay": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "adm_advisor_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "same_religion_advisor_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_heathen_missionary_strength": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "leader_land_shock": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "native_assimilation": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "production_efficiency": {
+    "text": "Production Efficiency",
+    "multiplier": 100,
+    "percent": true
+  },
+  "naval_maintenance_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "admiral_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "allowed_rajput_fraction": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_tariffs": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "devotion": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "dip_tech_cost_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "naval_tradition_from_battle": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "advisor_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "reduced_liberty_desire": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "cav_to_inf_ratio": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "development_cost_in_primary_culture": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "drill_gain_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "all_power_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "prestige": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "improve_relation_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "yearly_corruption": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_foreign_trade_power": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "candidate_random_bonus": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "leader_siege": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "power_projection_from_insults": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "leader_naval_shock": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "transport_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "manpower_in_accepted_culture_provinces": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "reduced_liberty_desire_on_same_continent": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "army_tradition": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "mercenary_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "inflation_action_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "blockade_efficiency": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "cavalry_power": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "allowed_marine_fraction": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_missionary_strength": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "republican_tradition": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "rival_border_fort_maintenance": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "innovativeness_gain": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "cavalry_shock": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "heir_chance": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "fort_maintenance_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "stability_cost_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "embargo_efficiency": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "spy_offence": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "cavalry_flanking": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_sailors_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "max_absolutism": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "fabricate_claims_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "papal_influence_from_cardinals": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "monthly_splendor": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "legitimacy": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "province_warscore_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "may_explore": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "governing_capacity_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "state_maintenance_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "yearly_karma_decay": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "galley_power": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_unrest": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "cavalry_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "siege_blockade_progress": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "monarch_military_power": {
+    "text": "Monarch Military Skill",
+    "multiplier": 1,
+    "percent": false
+  },
+  "general_cost": {
+    "text": "General Cost",
+    "multiplier": 100,
+    "percent": true
+  },
+  "possible_mil_policy": {
+    "text": "Military Possible Policies",
+    "multiplier": 1,
+    "percent": false
+  },
+  "monthly_gold_inflation_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "monthly_fervor_increase": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "center_of_trade_upgrade_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "dip_advisor_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "vassal_forcelimit_bonus": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "build_time": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "accept_vassalization_reasons": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "leader_land_fire": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "naval_forcelimit_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "artillery_shock": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "movement_speed": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "diplomatic_upkeep": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "infantry_fire": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "reserves_organisation": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "may_recruit_female_generals": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "war_exhaustion": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_supply_limit_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_manpower_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "global_regiment_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "warscore_cost_vs_other_religion": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "loot_amount": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "privateer_efficiency": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "capture_ship_chance": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "autonomy_change_time": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "movement_speed_onto_off_boat_modifier": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "promote_culture_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "mercenary_discipline": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "rebel_support_efficiency": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "same_culture_advisor_cost": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "core_decay_on_your_own": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "free_policy": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "manpower_in_own_culture_provinces": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "papal_influence": {
+    "text": "Yearly Papal Influence",
+    "multiplier": 1,
+    "percent": false
+  },
+  "imperial_mandate": {
+    "text": "",
+    "multiplier": 1,
+    "percent": false
+  },
+  "trade_efficiency": {
+    "text": "Trade Efficiency",
+    "multiplier": 100,
+    "percent": true
+  }
+}
