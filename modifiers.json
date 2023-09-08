@@ -40,9 +40,9 @@
     "percent": false
   },
   "spy_action_cost_modifier": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Spy Action Cost Modifier",
+    "multiplier": 100,
+    "percent": true
   },
   "coast_raid_range": {
     "text": "",
@@ -110,7 +110,7 @@
     "percent": false
   },
   "tolerance_heathen": {
-    "text": "",
+    "text": "Tolerance of Heathens",
     "multiplier": 1,
     "percent": false
   },
@@ -130,7 +130,7 @@
     "percent": false
   },
   "free_leader_pool": {
-    "text": "",
+    "text": "Leader(s) without Upkeep",
     "multiplier": 1,
     "percent": false
   },
@@ -270,9 +270,9 @@
     "percent": false
   },
   "core_creation": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Core-Creation Cost",
+    "multiplier": 100,
+    "percent": true
   },
   "backrow_artillery_damage": {
     "text": "",
@@ -305,9 +305,9 @@
     "percent": false
   },
   "artillery_power": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Artillery Combat Ability",
+    "multiplier": 100,
+    "percent": true
   },
   "leader_naval_manuever": {
     "text": "",
@@ -415,9 +415,9 @@
     "percent": false
   },
   "ae_impact": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Aggressive Expansion Impact",
+    "multiplier": 100,
+    "percent": true
   },
   "monarch_admin_power": {
     "text": "Monarch Administrative Skill",
@@ -435,9 +435,9 @@
     "percent": false
   },
   "infantry_power": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Infantry Combat Ability",
+    "multiplier": 100,
+    "percent": true
   },
   "global_tax_modifier": {
     "text": "",
@@ -485,9 +485,9 @@
     "percent": false
   },
   "heavy_ship_power": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Heavy Ship Combat Ability",
+    "multiplier": 100,
+    "percent": true
   },
   "expand_administration_cost": {
     "text": "",
@@ -500,9 +500,9 @@
     "percent": false
   },
   "shock_damage": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Shock Damage",
+    "multiplier": 100,
+    "percent": true
   },
   "land_morale": {
     "text": "Morale of Armies",
@@ -510,9 +510,9 @@
     "percent": true
   },
   "transport_power": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Transport Combat Ability",
+    "multiplier": 100,
+    "percent": true
   },
   "ship_power_propagation": {
     "text": "",
@@ -520,14 +520,14 @@
     "percent": false
   },
   "reform_progress_growth": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Reform Progress Growth",
+    "multiplier": 100,
+    "percent": true
   },
   "female_advisor_chance": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Female Advisor Chance",
+    "multiplier": 100,
+    "percent": true
   },
   "embracement_cost": {
     "text": "",
@@ -565,9 +565,9 @@
     "percent": false
   },
   "unjustified_demands": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Unjustified Demands",
+    "multiplier": 100,
+    "percent": true
   },
   "max_absolutism_effect": {
     "text": "",
@@ -610,7 +610,7 @@
     "percent": false
   },
   "num_accepted_cultures": {
-    "text": "",
+    "text": "Number of accepted Cultures",
     "multiplier": 1,
     "percent": false
   },
@@ -620,12 +620,12 @@
     "percent": false
   },
   "shock_damage_received": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Shock Damage Received",
+    "multiplier": 100,
+    "percent": true
   },
   "advisor_pool": {
-    "text": "",
+    "text": "Possible Advisors",
     "multiplier": 1,
     "percent": false
   },
@@ -655,7 +655,7 @@
     "percent": false
   },
   "inflation_reduction": {
-    "text": "",
+    "text": "Yearly Inflation Reduction",
     "multiplier": 1,
     "percent": false
   },
@@ -680,7 +680,7 @@
     "percent": false
   },
   "horde_unity": {
-    "text": "",
+    "text": "Yearly Horde Unity",
     "multiplier": 1,
     "percent": false
   },
@@ -755,9 +755,9 @@
     "percent": false
   },
   "possible_condottieri": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Possible Condottieri",
+    "multiplier": 100,
+    "percent": true
   },
   "may_perform_slave_raid": {
     "text": "",
@@ -840,14 +840,14 @@
     "percent": false
   },
   "trade_steering": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Trade Steering",
+    "multiplier": 100,
+    "percent": true
   },
   "defensiveness": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Fort Defense",
+    "multiplier": 100,
+    "percent": true
   },
   "global_trade_goods_size_modifier": {
     "text": "",
@@ -870,14 +870,14 @@
     "percent": false
   },
   "hostile_attrition": {
-    "text": "",
+    "text": "Attrition for Enemies",
     "multiplier": 1,
     "percent": false
   },
   "prestige_decay": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Prestige Decay",
+    "multiplier": 100,
+    "percent": true
   },
   "administrative_efficiency": {
     "text": "",
@@ -975,7 +975,7 @@
     "percent": false
   },
   "devotion": {
-    "text": "",
+    "text": "Yearly Devotion",
     "multiplier": 1,
     "percent": false
   },
@@ -1020,7 +1020,7 @@
     "percent": false
   },
   "prestige": {
-    "text": "",
+    "text": "Yearly Prestige",
     "multiplier": 1,
     "percent": false
   },
@@ -1030,7 +1030,7 @@
     "percent": false
   },
   "yearly_corruption": {
-    "text": "",
+    "text": "Yearly Corruption",
     "multiplier": 1,
     "percent": false
   },
@@ -1095,9 +1095,9 @@
     "percent": false
   },
   "cavalry_power": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Cavalry Combat Ability",
+    "multiplier": 100,
+    "percent": true
   },
   "allowed_marine_fraction": {
     "text": "",
@@ -1110,14 +1110,14 @@
     "percent": false
   },
   "republican_tradition": {
-    "text": "",
+    "text": "Yearly Republican Tradition",
     "multiplier": 1,
     "percent": false
   },
   "rival_border_fort_maintenance": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Fort Maintenance on border with rival",
+    "multiplier": 100,
+    "percent": true
   },
   "innovativeness_gain": {
     "text": "",
@@ -1150,9 +1150,9 @@
     "percent": false
   },
   "spy_offence": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Spy Network Construction",
+    "multiplier": 100,
+    "percent": true
   },
   "cavalry_flanking": {
     "text": "",
@@ -1185,7 +1185,7 @@
     "percent": false
   },
   "legitimacy": {
-    "text": "",
+    "text": "Yearly Legitimacy",
     "multiplier": 1,
     "percent": false
   },
@@ -1220,7 +1220,7 @@
     "percent": false
   },
   "global_unrest": {
-    "text": "",
+    "text": "National Unrest",
     "multiplier": 1,
     "percent": false
   },
@@ -1350,9 +1350,9 @@
     "percent": false
   },
   "loot_amount": {
-    "text": "",
-    "multiplier": 1,
-    "percent": false
+    "text": "Looting Speed",
+    "multiplier": 100,
+    "percent": true
   },
   "privateer_efficiency": {
     "text": "",
