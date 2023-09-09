@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_text_SNI_checkmark"
+		texturefile = "gfx/interface/SNI_checkmark.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_text_SNI_Idea_Bonus"
+		texturefile = "gfx/interface/Idea_bonus.png"
+	}
+	
+	spriteType = {
+		name = "GFX_text_SNI_Idea_Traditions"
+		texturefile = "gfx/interface/Traditions.png"
+	}
+	
+	spriteType = {
+		name = "GFX_text_SNI_Idea"
+		texturefile = "gfx/interface/Idea.png"
+	}
+	
+}

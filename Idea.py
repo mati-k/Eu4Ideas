@@ -32,7 +32,7 @@ class Idea:
             print("Localization key not found: ", key)
             return
 
-    def format_modifier(self, modifier, modifier_map, text_warnings, modifier_warnings, add_icons):
+    def format_modifier(self, modifier, modifier_map, text_warnings, modifier_warnings):
         modifier_text = ''
         modifier_entry = {
             "text": '',
@@ -79,21 +79,21 @@ class Idea:
 
         return f'{modifier_text}\\n'
 
-    def get_localisation(self, localization_keys, modifier_map):
-        ideas_text = "\\nNew National Ideas\\n\\n"
-        ideas_text += "Traditions:\\n"
+    def get_localisation(self, localization_keys, modifier_map, text_warnings, modifier_warnings, add_icons):
+        ideas_text = "\\n£SNI_Idea_Traditions£ New National Ideas £SNI_Idea_Traditions£\\n\\n"
+        ideas_text += "£SNI_Idea_Traditions£  Traditions:\\n"
         for modifier in self.start:
-            ideas_text += self.format_modifier(modifier, modifier_map)
+            ideas_text += self.format_modifier(modifier, modifier_map, text_warnings, modifier_warnings)
         ideas_text += '\\n'
 
         for modifier_index in range(len(self.modifiers)):
-            ideas_text += f'{self.try_get_loc(self.ideas[modifier_index], localization_keys)}\\n'
+            ideas_text += f'£SNI_Idea£ {self.try_get_loc(self.ideas[modifier_index], localization_keys)}\\n'
             for modifier in self.modifiers[modifier_index]:
-                ideas_text += self.format_modifier(modifier, modifier_map)
+                ideas_text += self.format_modifier(modifier, modifier_map, text_warnings, modifier_warnings)
 
         ideas_text += '\\n'
-        ideas_text += "Ambition:\\n"
+        ideas_text += "£SNI_Idea_Bonus£ Ambition:\\n"
         for modifier in self.bonus:
-            ideas_text += self.format_modifier(modifier, modifier_map)
+            ideas_text += self.format_modifier(modifier, modifier_map, text_warnings, modifier_warnings)
 
         return f' national_ideas_{self.name}:0 "{ideas_text}"\n'
