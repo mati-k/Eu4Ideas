@@ -37,7 +37,9 @@ class Idea:
         modifier_entry = {
             "text": '',
             "multiplier": 1,
-            "percent": False
+            "percent": False,
+            "is_good": True,
+            "precision": 1
         }
 
         if modifier[0] in modifier_map:
@@ -52,11 +54,22 @@ class Idea:
 
         if modifier[1].lower() != 'yes':
             value = float(modifier[1])
-            modifier_text += '§G'
+            if modifier_entry["is_good"]:
+                if value >= 0:
+                    modifier_text += '§G'
+                else:
+                    modifier_text += '§R'
+            else:
+                if value <= 0:
+                    modifier_text += '§G'
+                else:
+                    modifier_text += '§R'
+
+            value = value * modifier_entry["multiplier"]
             if value > 0:
                 modifier_text += '+'
 
-            modifier_text += f'{(value * modifier_entry["multiplier"]):g}'
+            modifier_text += f'{value:.{modifier_entry["precision"]}f}'
             if modifier_entry["percent"]:
                 modifier_text += '%'
             modifier_text += '§! '
@@ -80,7 +93,7 @@ class Idea:
         return f'{modifier_text}\\n'
 
     def get_localisation(self, localization_keys, modifier_map, text_warnings, modifier_warnings, add_icons):
-        ideas_text = "\\n£SNI_Idea_Traditions£ New National Ideas £SNI_Idea_Traditions£\\n\\n"
+        ideas_text = "\\n\\n£SNI_Idea_Traditions£ New National Ideas £SNI_Idea_Traditions£\\n\\n"
         ideas_text += "£SNI_Idea_Traditions£  Traditions:\\n"
         for modifier in self.start:
             ideas_text += self.format_modifier(modifier, modifier_map, text_warnings, modifier_warnings)

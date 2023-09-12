@@ -3,7 +3,7 @@ import re
 from Idea import Idea
 
 def load_idea_file(idea_path, ideas):
-    file = open(idea_path, 'r')
+    file = open(idea_path, 'r', encoding='cp1252', errors='ignore')
     lines = file.readlines()
     file.close()
 
